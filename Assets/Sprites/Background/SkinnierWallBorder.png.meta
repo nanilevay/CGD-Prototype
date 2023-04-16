@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b32a9aa6d12044eecb7a09c06affb165
+guid: 5f264ff08f4504c48a405f34a55ee640
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walls_Corners_0
+      name: SkinnierWallBorder_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a39dbed1574fc41a2b22eb3b6f2e16e8
-      internalID: 1943168163
+      spriteID: 44e88b15088c9445f91d50d09d50725e
+      internalID: 17542374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_Corners_1
+      name: SkinnierWallBorder_1
       rect:
         serializedVersion: 2
         x: 256
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0198a2b78e76c4cc5888eb9697fcaa6e
-      internalID: 2016563008
+      spriteID: b7abbe1172b6449e49d889dcc58019fe
+      internalID: -1669163168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_Corners_2
+      name: SkinnierWallBorder_2
       rect:
         serializedVersion: 2
         x: 512
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a10e2c44cc7744bc99e90e3c90c4aac
-      internalID: 494780049
+      spriteID: f7364f8f650154c4baa7702f0038ec28
+      internalID: -1437399614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_Corners_3
+      name: SkinnierWallBorder_3
       rect:
         serializedVersion: 2
         x: 0
@@ -184,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c94b29bb4c834abca552d52a516c674
-      internalID: 1170091765
+      spriteID: 6c8c20413a0b442f7b7d23d9239f2a3b
+      internalID: -2134197036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_Corners_4
+      name: SkinnierWallBorder_4
       rect:
         serializedVersion: 2
         x: 512
@@ -205,14 +205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c417ab7bc13d24914bdcba26b739d589
-      internalID: -161267297
+      spriteID: 31c292e004f8c4752986690ff2b671de
+      internalID: 139068586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_Corners_5
+      name: SkinnierWallBorder_5
       rect:
         serializedVersion: 2
         x: 0
@@ -226,14 +226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b2cada804de942c1b8d9bb0847843d0
-      internalID: 858695124
+      spriteID: ca7d96591532040fcb94059668967f70
+      internalID: -588157001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_Corners_6
+      name: SkinnierWallBorder_6
       rect:
         serializedVersion: 2
         x: 256
@@ -247,14 +247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9e4795dddac74335b3c7b4af35cee76
-      internalID: 1729175447
+      spriteID: f9d2fba264d984cfba2f32d7fe87eaa5
+      internalID: 2145483101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_Corners_7
+      name: SkinnierWallBorder_7
       rect:
         serializedVersion: 2
         x: 512
@@ -268,8 +268,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 621bd148b1fbb428fa03ed1a36b7fc18
-      internalID: -554585179
+      spriteID: 93a1095d2d71f468db6eab321d4de31c
+      internalID: -970214353
       vertices: []
       indices: 
       edges: []
@@ -285,14 +285,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Walls_Corners_1: 2016563008
-      Walls_Corners_5: 858695124
-      Walls_Corners_7: -554585179
-      Walls_Corners_3: 1170091765
-      Walls_Corners_0: 1943168163
-      Walls_Corners_4: -161267297
-      Walls_Corners_6: 1729175447
-      Walls_Corners_2: 494780049
+      SkinnierWallBorder_4: 139068586
+      SkinnierWallBorder_2: -1437399614
+      SkinnierWallBorder_0: 17542374
+      SkinnierWallBorder_3: -2134197036
+      SkinnierWallBorder_5: -588157001
+      SkinnierWallBorder_6: 2145483101
+      SkinnierWallBorder_1: -1669163168
+      SkinnierWallBorder_7: -970214353
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

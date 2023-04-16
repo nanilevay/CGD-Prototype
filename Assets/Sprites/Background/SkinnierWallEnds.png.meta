@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a717a0137a18549fc86a459c4998b3f7
+guid: 62c2d6a0db24a4f0da3e200a49407aa6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -105,7 +105,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SkinnierWallEnds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511.3333
+        width: 256
+        height: 255.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b9b2d862c84e8b9b8f45f41e102a7
+      internalID: -799535788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinnierWallEnds_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 511.3333
+        width: 256
+        height: 255.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237f7ce7165044140a66f3ef37dc3167
+      internalID: 627336560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinnierWallEnds_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 256
+        height: 255.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad4d99c51c9b4fc988e16bd427891bf
+      internalID: 893400121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinnierWallEnds_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1.3333282
+        width: 256
+        height: 255.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be05be4b3eb4cc3998a98275978cf3
+      internalID: -1863387537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -116,7 +200,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SkinnierWallEnds_2: 893400121
+      SkinnierWallEnds_3: -1863387537
+      SkinnierWallEnds_1: 627336560
+      SkinnierWallEnds_0: -799535788
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

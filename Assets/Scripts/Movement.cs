@@ -22,9 +22,22 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
-         
+        if (Input.GetAxisRaw("Horizontal") !=0)
+        {
+            movement.x = Input.GetAxisRaw("Horizontal");
+            movement.y = 0;
+        }
+        else if (Input.GetAxisRaw("Vertical") !=0)
+        {
+            movement.y = Input.GetAxisRaw("Vertical");
+            movement.x = 0;
+        }
+        else
+        {
+            movement.x = 0;
+            movement.y = 0;
+        }
+       
         //animator.SetFloat("Speed", movement.sqrMagnitude);
 
         if(movement.x != 0 || movement.y != 0)
